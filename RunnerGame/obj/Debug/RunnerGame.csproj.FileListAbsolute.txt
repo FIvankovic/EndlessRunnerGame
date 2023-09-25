@@ -1,0 +1,21 @@
+C:\Users\korisnik\Documents\Runner Game\RunnerGame\RunnerGame\bin\Debug\RunnerGame.exe.config
+C:\Users\korisnik\Documents\Runner Game\RunnerGame\RunnerGame\bin\Debug\RunnerGame.exe
+C:\Users\korisnik\Documents\Runner Game\RunnerGame\RunnerGame\bin\Debug\RunnerGame.pdb
+C:\Users\korisnik\Documents\Runner Game\RunnerGame\RunnerGame\obj\Debug\RunnerGame.csproj.AssemblyReference.cache
+C:\Users\korisnik\Documents\Runner Game\RunnerGame\RunnerGame\obj\Debug\RunnerGame.GameWindow.resources
+C:\Users\korisnik\Documents\Runner Game\RunnerGame\RunnerGame\obj\Debug\RunnerGame.Properties.Resources.resources
+C:\Users\korisnik\Documents\Runner Game\RunnerGame\RunnerGame\obj\Debug\RunnerGame.csproj.GenerateResource.cache
+C:\Users\korisnik\Documents\Runner Game\RunnerGame\RunnerGame\obj\Debug\RunnerGame.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Documents\Runner Game\RunnerGame\RunnerGame\obj\Debug\RunnerGame.exe
+C:\Users\korisnik\Documents\Runner Game\RunnerGame\RunnerGame\obj\Debug\RunnerGame.pdb
+C:\Users\korisnik\Documents\Runner Game\RunnerGame\RunnerGame\bin\Debug\RunnerGame.exe.manifest
+C:\Users\korisnik\Documents\Runner Game\RunnerGame\RunnerGame\bin\Debug\RunnerGame.application
+C:\Users\korisnik\Documents\Runner Game\RunnerGame\RunnerGame\obj\Debug\RunnerGame.exe.manifest
+C:\Users\korisnik\Documents\Runner Game\RunnerGame\RunnerGame\obj\Debug\RunnerGame.application
+C:\Users\OmegaFilipa\Documents\RunnerGame\RunnerGame\obj\Debug\RunnerGame.csproj.AssemblyReference.cache
+C:\Users\OmegaFilipa\Documents\RunnerGame\RunnerGame\obj\Debug\RunnerGame.GameWindow.resources
+C:\Users\OmegaFilipa\Documents\RunnerGame\RunnerGame\obj\Debug\RunnerGame.Properties.Resources.resources
+C:\Users\OmegaFilipa\Documents\RunnerGame\RunnerGame\obj\Debug\RunnerGame.csproj.GenerateResource.cache
+C:\Users\OmegaFilipa\Documents\RunnerGame\RunnerGame\obj\Debug\RunnerGame.csproj.CoreCompileInputs.cache
+C:\Users\OmegaFilipa\Documents\RunnerGame\RunnerGame\obj\Debug\RunnerGame.exe
+C:\Users\OmegaFilipa\Documents\RunnerGame\RunnerGame\obj\Debug\RunnerGame.pdb
